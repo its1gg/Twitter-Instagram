@@ -1,0 +1,6 @@
+update:
+git add . && git commit -m " -- " && git push origin main
+
+get lastest: 
+git pull origin main
+
